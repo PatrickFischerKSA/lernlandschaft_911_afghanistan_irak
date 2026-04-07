@@ -319,32 +319,32 @@ const MODULES = [
         items: [
           {
             id: "north-impact",
-            label: "08:46 Uhr: Flug 11 schlägt in den Nordturm des World Trade Centers ein.",
+            label: "Flug 11 schlägt in den Nordturm des World Trade Centers ein.",
             detail: "Ab diesem Moment richtet sich die Aufmerksamkeit der Welt auf New York."
           },
           {
             id: "south-impact",
-            label: "09:03 Uhr: Flug 175 trifft den Südturm.",
+            label: "Flug 175 trifft den Südturm.",
             detail: "Spätestens jetzt ist klar, dass es sich um einen koordinierten Anschlag handelt."
           },
           {
             id: "pentagon",
-            label: "09:37 Uhr: Flug 77 schlägt ins Pentagon ein.",
+            label: "Flug 77 schlägt ins Pentagon ein.",
             detail: "Der Angriff erreicht damit auch das militärische Zentrum der USA."
           },
           {
             id: "flight93",
-            label: "10:03 Uhr: Flug 93 stürzt in Pennsylvania ab.",
+            label: "Flug 93 stürzt in Pennsylvania ab.",
             detail: "Passagiere versuchen, die Entführer zu stoppen."
           },
           {
             id: "south-collapse",
-            label: "09:59 Uhr: Der Südturm stürzt ein.",
+            label: "Der Südturm stürzt ein.",
             detail: "Die Bilder prägen das kollektive Gedächtnis des Tages."
           },
           {
             id: "north-collapse",
-            label: "10:28 Uhr: Der Nordturm stürzt ein.",
+            label: "Der Nordturm stürzt ein.",
             detail: "Nun ist die Dimension der Katastrophe endgültig sichtbar."
           }
         ],
