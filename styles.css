@@ -82,7 +82,7 @@ a {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.34fr) minmax(320px, 0.66fr);
+  grid-template-columns: minmax(0, 1.22fr) minmax(420px, 0.78fr);
   gap: 18px;
   padding: 28px;
 }
@@ -179,7 +179,7 @@ a {
   height: 100%;
   min-height: 404px;
   object-fit: cover;
-  object-position: center 42%;
+  object-position: 82% 42%;
 }
 
 .note-card {
