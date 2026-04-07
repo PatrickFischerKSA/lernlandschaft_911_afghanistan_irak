@@ -734,32 +734,32 @@ const MODULES = [
         items: [
           {
             id: "taliban-1996",
-            label: "1996: Die Taliban erobern Kabul und errichten ihr Regime.",
+            label: "Die Taliban erobern Kabul und errichten ihr Regime.",
             detail: "Damit beginnt die Phase, in der Afghanistan zum Schutzraum für Al-Qaida wird."
           },
           {
             id: "attack-2001",
-            label: "11. September 2001: Die Anschläge in den USA verändern die Lage grundlegend.",
+            label: "Die Anschläge in den USA verändern die Lage grundlegend.",
             detail: "Afghanistan wird zum Hauptziel des US-geführten Gegenschlags."
           },
           {
             id: "oef-2001",
-            label: "7. Oktober 2001: Die USA und Verbündete beginnen die Intervention in Afghanistan.",
+            label: "Die USA und Verbündete beginnen die Intervention in Afghanistan.",
             detail: "Der Krieg startet zunächst als direkte Reaktion auf 9/11."
           },
           {
             id: "abbottabad-2011",
-            label: "2. Mai 2011: Osama bin Laden wird in Abbottabad in Pakistan getötet.",
+            label: "Osama bin Laden wird in Abbottabad in Pakistan getötet.",
             detail: "Ein symbolischer Erfolg, aber kein Kriegsende."
           },
           {
             id: "doha-2020",
-            label: "29. Februar 2020: Das Doha-Abkommen zwischen den USA und den Taliban wird geschlossen.",
+            label: "Das Doha-Abkommen zwischen den USA und den Taliban wird geschlossen.",
             detail: "Es ebnet den Weg zum späteren Abzug."
           },
           {
             id: "withdrawal-2021",
-            label: "30. August 2021: Die letzten US-Soldaten verlassen Afghanistan.",
+            label: "Die letzten US-Soldaten verlassen Afghanistan.",
             detail: "Der militärische Einsatz der USA endet nach fast 20 Jahren."
           }
         ],
@@ -1156,27 +1156,27 @@ const MODULES = [
         items: [
           {
             id: "kuwait-1990",
-            label: "2. August 1990: Irakische Truppen besetzen Kuwait.",
+            label: "Irakische Truppen besetzen Kuwait.",
             detail: "Damit beginnt die Krise, die zum Golfkrieg führt."
           },
           {
             id: "desert-storm-1991",
-            label: "Januar/Februar 1991: Die internationale Koalition drängt den Irak militärisch aus Kuwait zurück.",
+            label: "Die internationale Koalition drängt den Irak militärisch aus Kuwait zurück.",
             detail: "Saddam bleibt dennoch an der Macht."
           },
           {
             id: "invasion-2003",
-            label: "20. März 2003: Die USA und Verbündete greifen den Irak an.",
+            label: "Die USA und Verbündete greifen den Irak an.",
             detail: "Nun steht Regimewechsel im Zentrum."
           },
           {
             id: "sovereignty-2004",
-            label: "28. Juni 2004: Die Besatzungsbehörde übergibt formell Souveränität an eine irakische Übergangsregierung.",
+            label: "Die Besatzungsbehörde übergibt formell Souveränität an eine irakische Übergangsregierung.",
             detail: "Der Konflikt ist damit aber keineswegs beendet."
           },
           {
             id: "withdrawal-2011",
-            label: "18. Dezember 2011: Die letzten US-Kampftruppen verlassen den Irak.",
+            label: "Die letzten US-Kampftruppen verlassen den Irak.",
             detail: "Der formale Abzug beendet nicht automatisch die Instabilität im Land."
           }
         ],
