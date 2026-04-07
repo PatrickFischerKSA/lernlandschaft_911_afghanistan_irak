@@ -712,20 +712,6 @@ function renderModuleHeader(module) {
     }
 
     <div class="module-grid">
-      <article class="module-box">
-        <h3>Arbeitsroute</h3>
-        <p class="module-copy">${escapeHtml(module.route)}</p>
-      </article>
-      <article class="module-box">
-        <h3>Kerninformation</h3>
-        <p class="module-copy">${escapeHtml(module.goal)}</p>
-      </article>
-      <article class="module-box">
-        <h3>Format</h3>
-        <p class="module-copy">
-          Kurze Informationen, Textfragen mit Sofortfeedback und eine Chronologieaufgabe.
-        </p>
-      </article>
       ${
         videoSources.length
           ? `
